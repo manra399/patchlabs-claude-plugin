@@ -1,0 +1,19 @@
+{
+  "name": "patchlabs",
+  "owner": { "name": "PatchLabs", "email": "manraj@patchlabs.dev" },
+  "metadata": {
+    "description": "PatchLabs plugins for Claude Code: check apps built with Lovable, Supabase, Bolt, Replit or Cursor for personal-data leaks.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "patchlabs",
+      "source": "./plugins/patchlabs",
+      "description": "Leak check for Supabase / Lovable apps: a skill that runs the free PatchLabs checks, explains each finding in plain English and writes a fix migration for you to approve, plus the PatchLabs MCP server.",
+      "version": "0.1.0",
+      "category": "security",
+      "homepage": "https://patchlabs.dev/docs/claude-plugin",
+      "keywords": ["security", "supabase", "rls", "lovable", "data-leak"]
+    }
+  ]
+}

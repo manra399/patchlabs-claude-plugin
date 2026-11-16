@@ -1,0 +1,10 @@
+{
+  "name": "patchlabs",
+  "version": "0.1.0",
+  "description": "Check an app built with Lovable, Supabase, Bolt, Replit or Cursor for personal-data leaks. Runs the free PatchLabs checks, explains findings in plain English and drafts a fix migration you approve.",
+  "author": { "name": "PatchLabs", "email": "manraj@patchlabs.dev", "url": "https://patchlabs.dev" },
+  "homepage": "https://patchlabs.dev/docs/claude-plugin",
+  "repository": "https://github.com/manra399/patchlabs-claude-plugin",
+  "license": "Apache-2.0",
+  "keywords": ["security", "supabase", "rls", "lovable", "data-leak"]
+}

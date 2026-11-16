@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "patchlabs": {
+      "type": "http",
+      "url": "https://api.patchlabs.dev/mcp/public"
+    }
+  }
+}
